@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Proyecto-Integrador-Marte
+  datasource:
+    url: jdbc:mysql://localhost:3306/proyecto_integrador?allowPublicKeyRetrieval=true&useSSL=false
+    username: root
+    password: seleny
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
