@@ -1,2 +1,2 @@
 # backend-Martes-Trabajos
-Proyecto integrador-trabajo en clase-trabajo de class07
+todo lo visto en clase,proyecto y ejercicio
